@@ -21,9 +21,18 @@
 
 <div style="display: inline_block">
   <br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" src="https://raw.githubusercontent.com/LeoPSantos/LeoPSantos/main/sql_icon_57503.ico"> 
+  <img align="center" src="https://raw.githubusercontent.com/LeoPSantos/LeoPSantos/main/cvs_tortoise_icon.ico"> 
+  <img align="center" src="https://raw.githubusercontent.com/LeoPSantos/LeoPSantos/main/gitkraken_icon_94666.ico">
+  <img align="center" src="https://raw.githubusercontent.com/LeoPSantos/LeoPSantos/main/git_logo_icon_146510.ico">
+  <img align="center" height="55" src="https://raw.githubusercontent.com/LeoPSantos/LeoPSantos/main/HTML5_icon_67090.ico">
+  <img align="center" src="https://raw.githubusercontent.com/LeoPSantos/LeoPSantos/main/css_icon_130661.ico">
+  <img align="center" src="https://raw.githubusercontent.com/LeoPSantos/LeoPSantos/main/vscode_icon_130084.ico">
+  <img align="center" src="https://raw.githubusercontent.com/LeoPSantos/LeoPSantos/main/pycharm_icon_190055.ico">
+  <img align="center" src="https://raw.githubusercontent.com/LeoPSantos/LeoPSantos/main/jupyter_icon_161280.ico">
+  <img align="center" src="https://raw.githubusercontent.com/LeoPSantos/LeoPSantos/main/jango-fett_87101.ico">
+  <img align="center" src="https://raw.githubusercontent.com/LeoPSantos/LeoPSantos/main/flask_icon_50797.ico">
+  <img align="center" src="https://raw.githubusercontent.com/LeoPSantos/LeoPSantos/main/python_logo_icon_168039.ico">
 </div>
   
   ##
