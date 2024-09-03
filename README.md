@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td><img align="center" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/></td>
-    <td>Oracle 11g (Designer, SQL Developer, Forms Builder, Reports Builder)</td>  
+    <td>Oracle 19c (Designer, SQL Developer, Forms Builder, Reports Builder, APEX)</td>  
   </tr>
 </table>
 </div>
